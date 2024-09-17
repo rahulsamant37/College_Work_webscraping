@@ -15,8 +15,6 @@ To get started, clone this repository and install the required packages:
 
 ```
 git clone https://github.com/your-username/contact-data-processing.git
-cd contact-data-processing
-pip install -r requirements.txt
 ```
 
 # Requirements
